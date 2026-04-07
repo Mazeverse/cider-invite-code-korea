@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cider-invite-code-korea.vercel.app/sitemap.xml
